@@ -25,7 +25,7 @@ print("              *       bro a number        *")
 print("              *          between          *")
 print("              *         10 and 99         *")
 print("              *                           *")
-print("              *        (You have 6)       *")
+print("              *        (You have 6)       *")#<----You can increase 6
 print("              *           chances         *")
 print("              * designer:AmirAli farahani *")#<-----you can edit this
 print("              * name game:Guess the number *")
